@@ -1,4 +1,4 @@
-import close from "assets/close.png";
+// import close from "assets/close.png";
 import styles from "./DeleteModal.module.css";
 
 function DeleteModal({setDeleteModal,confirmDelete , message}) {
